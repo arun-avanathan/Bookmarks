@@ -25,7 +25,7 @@ Videos, Presentations, Blogs related to Software Engineering and Architecture
 1. [AirBnB](http://nerds.airbnb.com/)
 1. [Twilio](https://www.twilio.com/engineering/)
 
-### Eductation
+### Education
 1. [MIT Opencourseware](https://ocw.mit.edu/index.htm)
 1. [Berkeley free courses](https://www.edx.org/school/uc-berkeleyx)
 1. [Free online courses](https://www.edx.org/)
